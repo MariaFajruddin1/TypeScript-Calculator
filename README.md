@@ -4,18 +4,18 @@ Typescript cli Calculator
 ## simple command line calculator using TypeScipt, Node.js 
 
 ## Features
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Modulus
-* Power
+* "+ (Addition)",
+* "- (Subtraction)",
+* "* (Multiplication)",
+* "/ (Division)",
+* "% (modulus or Reminder)",
+* "** (Exponentiation operator / Power)
 
 ## Packages:
-```bash
+
 $ npm i chalk chalk-animation gradient-string inquirer nanospinner
 
 
  ## Setup
-```bash
+
 $ npx sameercal
