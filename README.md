@@ -18,8 +18,9 @@ $ chalk-animation,
 $ gradient-string,
 $ inquirer,
 $ nanospinner.
-
+```
 
  ## Setup
 ```
 $ npx typescript-calculator
+```
