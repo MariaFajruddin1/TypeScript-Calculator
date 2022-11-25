@@ -1,4 +1,4 @@
-#TypeScript-Calculator
+# TypeScript-Calculator
 Typescript cli Calculator
 
 ## simple command line calculator using TypeScipt, Node.js 
