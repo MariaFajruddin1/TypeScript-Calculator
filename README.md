@@ -12,7 +12,7 @@ Typescript cli Calculator
 * "** (Exponentiation operator / Power)
 
 ## Packages:
-
+```
 $ npm i chalk,
 $ chalk-animation,
 $ gradient-string,
@@ -21,5 +21,5 @@ $ nanospinner.
 
 
  ## Setup
-
+```
 $ npx typescript-calculator
