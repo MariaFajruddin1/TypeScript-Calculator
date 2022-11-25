@@ -13,7 +13,7 @@ Typescript cli Calculator
 
 ## Packages:
 ```
- npm i chalk,
+ chalk,
  chalk-animation,
  gradient-string,
  inquirer,
