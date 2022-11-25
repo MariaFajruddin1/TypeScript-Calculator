@@ -1,0 +1,27 @@
+{
+  "name": "typescript-calculator",
+  "version": "1.0.0",
+  "description": "TypeScrip Calculator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/figlet": "^1.5.5",
+    "@types/gradient-string": "^1.1.2",
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^8.0.0",
+    "nanospinner": "^1.1.0"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
