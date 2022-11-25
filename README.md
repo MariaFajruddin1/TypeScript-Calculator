@@ -13,9 +13,13 @@ Typescript cli Calculator
 
 ## Packages:
 
-$ npm i chalk chalk-animation gradient-string inquirer nanospinner
+$ npm i chalk,
+$ chalk-animation,
+$ gradient-string,
+$ inquirer,
+$ nanospinner.
 
 
  ## Setup
 
-$ npx sameercal
+$ npx typescript-calculator
